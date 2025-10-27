@@ -1,0 +1,44 @@
+{
+    "fc1_bias": {
+        "scale": 32768,
+        "bits": 16,
+        "frac_bits": 15,
+        "min_float": -0.05952966585755348,
+        "max_float": 0.04609696567058563
+    },
+    "fc1_weight": {
+        "scale": 32768,
+        "bits": 16,
+        "frac_bits": 15,
+        "min_float": -0.487007737159729,
+        "max_float": 0.2651609778404236
+    },
+    "fc2_bias": {
+        "scale": 32768,
+        "bits": 16,
+        "frac_bits": 15,
+        "min_float": -0.08978360891342163,
+        "max_float": 0.11099778860807419
+    },
+    "fc2_weight": {
+        "scale": 32768,
+        "bits": 16,
+        "frac_bits": 15,
+        "min_float": -0.3352771997451782,
+        "max_float": 0.4153653383255005
+    },
+    "fc3_bias": {
+        "scale": 32768,
+        "bits": 16,
+        "frac_bits": 15,
+        "min_float": -0.09305550158023834,
+        "max_float": 0.13157407939434052
+    },
+    "fc3_weight": {
+        "scale": 32768,
+        "bits": 16,
+        "frac_bits": 15,
+        "min_float": -0.3164479434490204,
+        "max_float": 0.1963958740234375
+    }
+}
